@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		418229BF2B8FAA80008EB40A /* somona.mov in Resources */ = {isa = PBXBuildFile; fileRef = 418229BE2B8FAA80008EB40A /* somona.mov */; };
+		41F6C6C12B90740500A2C80A /* somona.mov in Resources */ = {isa = PBXBuildFile; fileRef = 41F6C6C02B90740400A2C80A /* somona.mov */; };
 		76FB31DC2120DBF100A1A4BB /* SomonaScreenSaverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76FB31DB2120DBF100A1A4BB /* SomonaScreenSaverView.swift */; };
 		76FB31F7212257BB00A1A4BB /* thumbnail@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 76FB31F5212257BA00A1A4BB /* thumbnail@2x.png */; };
 		76FB31F92122582B00A1A4BB /* thumbnail.png in Resources */ = {isa = PBXBuildFile; fileRef = 76FB31F82122582B00A1A4BB /* thumbnail.png */; };
@@ -26,7 +26,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		418229BE2B8FAA80008EB40A /* somona.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = somona.mov; sourceTree = "<group>"; };
+		41F6C6C02B90740400A2C80A /* somona.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = somona.mov; sourceTree = "<group>"; };
 		76FB31CE2120DB3A00A1A4BB /* SomonaSaver.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SomonaSaver.saver; sourceTree = BUILT_PRODUCTS_DIR; };
 		76FB31D52120DB3A00A1A4BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		76FB31DB2120DBF100A1A4BB /* SomonaScreenSaverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SomonaScreenSaverView.swift; sourceTree = "<group>"; };
@@ -48,7 +48,6 @@
 		41AE09F32B8FADE0000828EE /* SomonaServer */ = {
 			isa = PBXGroup;
 			children = (
-				418229BE2B8FAA80008EB40A /* somona.mov */,
 				76FB31DB2120DBF100A1A4BB /* SomonaScreenSaverView.swift */,
 				76FB31D52120DB3A00A1A4BB /* Info.plist */,
 			);
@@ -59,6 +58,7 @@
 			isa = PBXGroup;
 			children = (
 				41AE09F32B8FADE0000828EE /* SomonaServer */,
+				41F6C6C02B90740400A2C80A /* somona.mov */,
 				76FB31F82122582B00A1A4BB /* thumbnail.png */,
 				76FB31F5212257BA00A1A4BB /* thumbnail@2x.png */,
 				76FB31CF2120DB3A00A1A4BB /* Products */,
@@ -147,7 +147,7 @@
 			files = (
 				76FB31F7212257BB00A1A4BB /* thumbnail@2x.png in Resources */,
 				76FB31F92122582B00A1A4BB /* thumbnail.png in Resources */,
-				418229BF2B8FAA80008EB40A /* somona.mov in Resources */,
+				41F6C6C12B90740500A2C80A /* somona.mov in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
