@@ -1,5 +1,5 @@
 # somona-screensaver
-Play with macos screen saver and macos
+Macos screen saver
 
 👋 Welcome to my repo 
 
