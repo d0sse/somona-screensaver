@@ -7,3 +7,5 @@ In this project I try to create a template for a very simple screen saver that l
 
 
 In this particular example I take a video present on sonoma at the path: `/System/Library/Desktop\ Pictures/.wallpapers/Sonoma\ Horizon/`
+
+🟥⬜️🟩
